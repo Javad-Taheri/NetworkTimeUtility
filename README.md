@@ -3,7 +3,7 @@ Network Time Utility is a simple Network Time Protocol (NTP) client application.
 This application is free and portable that not requiring installation and it does not writes any thing to the host system.
 
 ### Download
-Download the latest version from the "Releases" (../../releases) section.
+Download the latest version from the [Releases](https://github.com/Javad-Taheri/NetworkTimeUtility/releases/tag/v1.0.0) section.
 
 ### System Requirements
 Windows Vista or later.
