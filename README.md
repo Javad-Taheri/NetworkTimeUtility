@@ -6,7 +6,7 @@ This application is free and portable that no requiring installation and it does
 Download the latest version from the "Releases" (../../releases) section.
 
 ### System Requirements
-- Windows Vista or later
+Windows Vista or later.
 
 ### License
 After Link Downloader is free to use. The source code is not publicly available.
